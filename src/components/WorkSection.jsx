@@ -9,7 +9,7 @@ export default function WorkSection() {
       id: "work-1",
       title: "Avax.network",
       category: "Company Website",
-      src: "/cover.CfYA8Hxi_1facah.webp",
+      src: "./cover.CfYA8Hxi_1facah.webp",
       href: "https://avax.network",
       isDarkText: false
     },
@@ -17,7 +17,7 @@ export default function WorkSection() {
       id: "work-2",
       title: "Dimenso Student",
       category: "Mobile App",
-      src: "/cover.BZ803aXC_1XqMSU.webp",
+      src: "./cover.BZ803aXC_1XqMSU.webp",
       href: "#",
       isDarkText: false
     },
@@ -25,7 +25,7 @@ export default function WorkSection() {
       id: "work-3",
       title: "Cati.io",
       category: "Web App",
-      src: "/cover.B1fcijrz_ZHQMh.webp",
+      src: "./cover.B1fcijrz_ZHQMh.webp",
       href: "https://cati.io",
       isDarkText: false
     },
@@ -33,7 +33,7 @@ export default function WorkSection() {
       id: "work-4",
       title: "EPPI",
       category: "Premium Storefront",
-      src: "/cover.CkBsXtlg_dfYmT.webp",
+      src: "./cover.CkBsXtlg_dfYmT.webp",
       href: "#",
       isDarkText: true
     },
@@ -41,7 +41,7 @@ export default function WorkSection() {
       id: "work-5",
       title: "Ubisoft Might & Magic",
       category: "Web3 App",
-      src: "/cover.B6jVCRLA_Z237tOs.webp",
+      src: "./cover.B6jVCRLA_Z237tOs.webp",
       href: "#",
       isDarkText: false
     }
@@ -98,7 +98,7 @@ export default function WorkSection() {
             {/* Background background image overlay */}
             <img
               alt="More work"
-              src="/work-background.DSt1DSsM_Z1yY2F6.webp"
+              src="./work-background.DSt1DSsM_Z1yY2F6.webp"
               className="absolute inset-0 size-full object-cover group-hover/link:scale-[1.02] transition-transform duration-1000 ease-out"
             />
             

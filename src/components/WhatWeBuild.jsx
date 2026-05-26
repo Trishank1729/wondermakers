@@ -9,28 +9,28 @@ export default function WhatWeBuild() {
       title: "Websites & Digital Experiences",
       description: "High-end websites designed to shape perception and strengthen your brand. We combine immersive storytelling with flawless interaction – without sacrificing performance.",
       tags: ["Company Website", "Product Website", "Immersive Website", "Landing Page", "Content Hub"],
-      src: "/card1.PtmqNxVu_Z1AU3rH.webp"
+      src: "./card1.PtmqNxVu_Z1AU3rH.webp"
     },
     {
       index: "02",
       title: "Apps, Platforms & Real-Time Systems",
       description: "Digital systems built for demanding environments. From SaaS platforms to real-time dashboards, we design and engineer products that handle complexity while staying intuitive.",
       tags: ["Mobile App", "Web App", "SaaS Product", "Business Portal", "Data Dashboard"],
-      src: "/card2.fDxwyPZ9_Z2ilK97.webp"
+      src: "./card2.fDxwyPZ9_Z2ilK97.webp"
     },
     {
       index: "03",
       title: "E-commerce & Product Storytelling",
       description: "Beyond the standard storefront. We build premium shopping experiences where strong storytelling and thoughtful UX increase perceived value and conversion.",
       tags: ["Premium Storefront", "B2B Portal", "Product Configurator", "Custom Commerce"],
-      src: "/card3.CIzRSh56_Z2j6o9D.webp"
+      src: "./card3.CIzRSh56_Z2j6o9D.webp"
     },
     {
       index: "04",
       title: "Web3 & On-Chain Platforms",
       description: "We bridge blockchain complexity with intuitive interfaces. Our products are secure, performant, and accessible – helping decentralized technologies reach real users.",
       tags: ["NFT Platform", "dApp", "Token Portal", "Web3 Integration"],
-      src: "/card4.D9Vhw0QY_ZhiXcE.webp"
+      src: "./card4.D9Vhw0QY_ZhiXcE.webp"
     }
   ];
 

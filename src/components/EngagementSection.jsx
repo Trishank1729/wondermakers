@@ -32,22 +32,22 @@ export default function EngagementSection({ onContactClick }) {
     {
       title: "Design as strategic value",
       description: "Design is more than aesthetics. It sharpens positioning, increases perceived value, and drives measurable results.",
-      src: "/edge1.B4SIKxBY_Z1k9feR.webp"
+      src: "./edge1.B4SIKxBY_Z1k9feR.webp"
     },
     {
       title: "Fluid Scaling UI",
       description: "Beyond responsive design. Our Fluid Scaling Systems keep interfaces consistent across every screen size while maintaining performance and clean code.",
-      src: "/edge2.BWxj4T7q_1Fb4PA.webp"
+      src: "./edge2.BWxj4T7q_1Fb4PA.webp"
     },
     {
       title: "Business-driven engineering",
       description: "We start with your business goals. From rapid MVP launches to long-term scalability, we choose technologies that balance speed, cost, and future growth.",
-      src: "/edge3.tDS3er97_ZhElIH.webp"
+      src: "./edge3.tDS3er97_ZhElIH.webp"
     },
     {
       title: "Purposeful Immersion",
       description: "We use 3D, motion, and interaction design to create meaningful engagement and tell your story – without compromising usability or performance.",
-      src: "/edge4.DKzVHLl2_12voMM.webp"
+      src: "./edge4.DKzVHLl2_12voMM.webp"
     }
   ];
 
@@ -59,10 +59,10 @@ export default function EngagementSection({ onContactClick }) {
   ];
 
   const studioImages = [
-    "/studio1.C-9gsw3V_Z2d6Pc3.webp",
-    "/studio2.D5CHQr5A_Z213vPG.webp",
-    "/studio3.cknibGVz_1RcQuK.webp",
-    "/studio4.DAp7Gbve_11dDjg.webp"
+    "./studio1.C-9gsw3V_Z2d6Pc3.webp",
+    "./studio2.D5CHQr5A_Z213vPG.webp",
+    "./studio3.cknibGVz_1RcQuK.webp",
+    "./studio4.DAp7Gbve_11dDjg.webp"
   ];
 
   return (
